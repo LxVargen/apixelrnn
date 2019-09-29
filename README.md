@@ -1,7 +1,7 @@
 # apixelrnn
 
-**Installation**
+**Installation**\n
 `pip3 install tensorflow-gpu textgenrnn`
 
-**Usage**
-Run `generate.py` in a command line or python shell
+**Usage**\n
+Run `python3 generate.py` in a command line or python shell
